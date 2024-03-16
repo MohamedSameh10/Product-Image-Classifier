@@ -1,6 +1,4 @@
-# Product-Image-Classifier
-
-# AI Model for Product Classification
+# Product-Classifier
 
 ## Overview
 This repository contains the implementation of a model designed for product classification.
